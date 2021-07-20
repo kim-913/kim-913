@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kim Ke
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Business Analytics in University of Washington
+- 🌱 I’m graduated from University of Washington in Bachelor's of Science in Mathematics and I'm now a master student of University of Washington.
 - 💞️ I’m looking to land a job as a software developer.
 - 📫 How to reach me: LinkedIn Profile:https://www.linkedin.com/in/ziruo-ke-819510195/
 
